@@ -1,0 +1,11 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	chr1                    300F
+//	chr1Ptr                 300D
+//	chr2                    3010
+//	chr2Ptr                 300E
+//	endif                   3009
+//	eopMessage              3025
+//	if                      3008
+//	prompt                  3011
+//	removeAsciiOffset       3024
